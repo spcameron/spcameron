@@ -1,3 +1,3 @@
-### Hi, my name is Sean
+### Hi! My name is Sean...
 
-and I am a professional musician in New York City moonlighting as a hobbyist computer programmer. I'm coding primarily in Go these days, with experience in Java and Python as well. I use neovim, by the way.
+... and I am a professional musician in New York City moonlighting as a hobbyist computer programmer. I have a particular interest in compilers, interpreters, and language parsing, and my favorite project so far is [`scribe`](https://github.com/spcameron/scribe), a Markdown to HTML compiler. I'm coding primarily in Go these days, with experience in Java and Python as well. I use neovim, by the way.
